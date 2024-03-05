@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">InAppPurchase</string>
+    <string name="btn_purchase">Consume Purchase</string>
+    <string name="btn_buy">Buy Product</string>
 </resources>
